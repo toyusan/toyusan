@@ -1,8 +1,10 @@
 # Hi there and wellcome to my GitHub Profile 👋
 
-😃 My name is Airton Toyofuku and I am a Project Manager certified as PMP®, Electrical Engineer, with emphasis on electronics and specialist in the development of embedded systems and IoT.
+😃 My name is Airton Toyofuku and I am a Project Manager certified as PMP®, Electrical Engineer, with emphasis on electronics and specialist in the development of embedded systems and IoT. I also have an MBA in Project Management and I am currently doing my Masters in Computer Science, focusing on Security in Cyberphysical Systems.
 
 🌱 Constantly studying, I am interested in entrepreneurship, management techniques, leadership, strategy, economics, and innovation, in addition to improving my programming techniques for embedded systems, cloud, and mobile.
+
+⚡ As a fun fact, I love fishing, archery, video games, play bass guitar, books and coding 😝.
 
 🔭 I’m currently working as a Associate Director and Project Manager on <a href = "https://quadrar.com.br"> Quadrar Tecnologia </a>, a Design House focused on IoT Projects and Embedded Systems Development.
 ##
