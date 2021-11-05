@@ -34,6 +34,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark
   <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyusan&layout=compact&langs_count=7&theme=dark" />
 </div>
 
+  ![Snake animation](https://github.com/toyusan/toyusan/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **toyusan/toyusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
