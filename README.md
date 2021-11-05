@@ -25,10 +25,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="70" height="70" />
 ##
 
+### 🏆 Some of my stats... It is not much, but they're mine 😝:
 <div>
   <a href="https://github.com/toyusan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=toyusan&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyusan&layout=compact&langs_count=7&theme=dark" />
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=toyusan&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toyusan&layout=compact&langs_count=7&theme=dark" />
 </div>
 
 
