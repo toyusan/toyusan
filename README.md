@@ -8,7 +8,7 @@
 
 🔭 I am currently working as a Associate Director and Project Manager on <a href = "https://quadrar.com.br"> Quadrar Tecnologia </a>, a Design House focused on IoT Projects and Embedded Systems Development.
 
-🔭 I also founded my own company,  <a href = "https://toyotech.com.br"> ToyoTech, where I provide training in internet of things technologies and offer consultancy in project development in the area. 
+🔭 I also founded my own company,  <a href = "https://toyotech.com.br"> ToyoTech </a>, where I provide training in internet of things technologies and offer consultancy in project development for iot. 
 ##
 
 ### 📫 You can reach me on:
