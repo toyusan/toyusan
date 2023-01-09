@@ -35,7 +35,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-plain-wordmark
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=toyusan&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
   <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=toyusan&layout=compact&langs_count=7&theme=dark" />
 </div>
-  
+  ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   ![Snake animation](https://github.com/toyusan/toyusan/blob/output/github-contribution-grid-snake.svg)
 
 <!--
